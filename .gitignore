@@ -59,6 +59,9 @@ coverage.xml
 *.log
 local_settings.py
 db.sqlite3-journal
+/.vscode
+.vscode/
+/.vscode/
 .vscode
 # Flask stuff:
 instance/
